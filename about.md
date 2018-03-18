@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 AJ PAUL
+
 Automation Analyst at CenITex
+
 Since 2017
 
 ### More Information
