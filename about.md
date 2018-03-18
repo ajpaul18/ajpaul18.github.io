@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 
+title: AJ PAUL
 permalink: /about/
 ---
 
-# AJ PAUL
 
 ## Automation Analyst at CenITex
 
