@@ -12,8 +12,8 @@ Since 2017
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Devops & Automation Enthusiast, interested in learning and teaching about the new technologies in the market for Devops.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ajpaul18@gmail.com](mailto:email@domain.com)
