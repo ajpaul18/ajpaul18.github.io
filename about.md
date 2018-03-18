@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-AJ PAUL
-Automation Analyst at CenITex
-Since 2017
+AJ PAUL \
+Automation Analyst at CenITeX \
+Since 2017 \
 
 ### More Information
 
