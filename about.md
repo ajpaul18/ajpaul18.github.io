@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-AJ PAUL
+# AJ PAUL
 
-Automation Analyst at CenITex
+## Automation Analyst at CenITex
 
-Since 2017
+### Since 2017
 
-### More Information
-
-Devops & Automation Enthusiast, interested in learning and teaching about the new technologies in the market for Devops.
+Devops & Automation Enthusiast, interested in learning and teaching about the new technologies in the market for Devops.    
 
 ### Contact me
 
