@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+AJ PAUL
+Automation Analyst at CenITex
+Since 2017
 
 ### More Information
 
